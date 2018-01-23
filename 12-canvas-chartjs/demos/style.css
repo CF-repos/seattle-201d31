@@ -2,7 +2,7 @@ img {
   width: 300px;
 }
 
-section {
+section, canvas {
   padding: 30px;
   border: 2px solid red;
 }
