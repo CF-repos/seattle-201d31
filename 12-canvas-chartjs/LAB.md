@@ -1,4 +1,4 @@
-# Assignment Overview: Lab 13
+# Assignment Overview: Lab 12
 
 - Using ChartJS, display your vote totals in a **bar chart**.
 
