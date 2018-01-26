@@ -40,6 +40,8 @@ Preview of the topics in Code 301, and some over-arching 'how the web works' dis
 ##### Structure of 301
 - Daily pair programming
 - Work from starter code for the paired assignments
+- Same textbooks
+- [301 prework](https://github.com/codefellows/code-301-prework)
 
 ##### Concepts in 301
 - MVC
